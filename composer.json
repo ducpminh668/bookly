@@ -23,7 +23,8 @@
         "nexmo/laravel": "^2.3",
         "paypal/paypal-checkout-sdk": "1.0.0",
         "paypal/rest-api-sdk-php": "*",
-        "stripe/stripe-php": "^7.60"
+        "stripe/stripe-php": "^7.60",
+        "vonage/client": "^2.4"
     },
     "require-dev": {
         "facade/ignition": "^2.3.6",
